@@ -15,5 +15,8 @@ Create an application that simulates a simple quiz with multiple-choice question
 - Display the final score after the last question.
 
 
-## Example of finished App
+## Live
+https://comforting-gecko-8fa65a.netlify.app/
+
+![vue-multiple-choice-quiz-img](https://github.com/GonzaloVolonterio/vue-multiple-choice-quiz/assets/64506662/15b7ab4d-92e8-4684-88c1-74f8460ff097)
 
